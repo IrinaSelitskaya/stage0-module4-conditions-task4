@@ -2,9 +2,9 @@ package school.mjc.stage0.conditions.task4;
 
 public class TernaryMaxNumberPrinter {
     public void printGreatest(int first, int second, int third) {
-     first=20;
-     second=25;
-     third=30;
+     first=3;
+     second=9;
+     third=1;
      int result1;
      int result2;
      int resultTotal;
